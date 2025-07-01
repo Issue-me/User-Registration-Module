@@ -77,3 +77,6 @@ Upcoming Features:
 - email confirmation/verification
 - database schema export
 - deployment instructions
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/74f7c948-85aa-4762-9151-7922165ac65a" />
+
