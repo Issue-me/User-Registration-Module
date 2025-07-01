@@ -72,11 +72,9 @@ mvn clean install
 mvn spring-boot:run
 Then go to http://localhost:8080 to access the app.
 
-Upcoming Features:
+Upcoming Features
 - parent login/student login sections
 - email confirmation/verification
 - database schema export
 - deployment instructions
-
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/74f7c948-85aa-4762-9151-7922165ac65a" />
 
